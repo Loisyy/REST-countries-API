@@ -16,8 +16,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -39,8 +37,8 @@ all the screenshots can be found in the design folder
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
-- Live Site URL: [vercel](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/Loisyy/rest-countries-api.git)
+- Live Site URL: [vercel](https://vercel.com/loisyys-projects/rest-countries-api)
 
 ## My process
 
@@ -73,7 +71,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@loisnyks] http://twitter.com/loisnyks?s=08
 
 ## Acknowledgments
 
