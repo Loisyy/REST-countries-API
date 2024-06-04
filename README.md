@@ -1,3 +1,16 @@
+new rest countries api Built with HTML CSS and JAVASCRIPT kimdly find the links below
+
+Links Solution URL: GitHub - https://github.com/Loisyy/Rest-Country-Api-2.git Live Site URL: Vercel - https://vercel.com/loisyys-projects/rest-country-api-2
+
+
+
+
+
+
+
+
+
+
 # Frontend Mentor - REST Countries API with color theme switcher solution
 
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
